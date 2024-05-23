@@ -1,2 +1,2 @@
-# PRODIGY_DS_02
+# TITANIC_DATASET_EDA
 Exploratory Data Analysis on Titanic dataset.
